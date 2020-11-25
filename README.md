@@ -6,3 +6,15 @@
 4. Open your favorite browser: http://localhost:8080/admin
 
 ### Image Screen shot
+
+Home Page
+
+![Home Page](img/home.png "Home Page")
+
+User List Page
+
+![User List Page](img/user.png "User List Page")
+
+User Add Page
+
+![User Add Page](img/add.png "User Add Page")
